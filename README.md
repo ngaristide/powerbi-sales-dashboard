@@ -57,7 +57,6 @@ Il met en avant les bonnes pratiques de **préparation des données, modélisati
 ---
 
 ## 📸 Aperçu du dashboard
-*(Ajouter ici vos captures d’écran du rapport Power BI – par exemple onglet ventes & onglet commandes annulées)*  
 
 ### Vue d’ensemble
 [modèle_onglet_suiviVentes](https://github.com/user-attachments/assets/dc90f2d1-8dd7-4230-8df0-19693174b915)
